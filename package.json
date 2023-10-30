@@ -4,7 +4,7 @@
   "description": "Project for training purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/index"
   },
   "author": "Ilia Poliakov<trayhardplay@gmail.com>",
   "license": "ISC",
